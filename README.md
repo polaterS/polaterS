@@ -40,7 +40,6 @@
 </p>
 
 <h3 align="left">Stars</h3>
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=polaters&layout=compact&theme=dark" alt=polaters />
 
 <p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=polaters&show_icons=true&locale=en&theme=dark" alt="polaters" /></p>
 
