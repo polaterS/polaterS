@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on .NET
 - 🌱 I’m currently learning SignalR
 
-<h3 align="center">⚡| My Reference Projects </h3>
+<h3 align="center">⚡ My Reference Projects ⚡</h3>
 
 | Repo Link | Technologies and Tools | Status | Year | Details |
 |-----------|------------------------|--------|------|---------|
