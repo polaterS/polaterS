@@ -2,14 +2,14 @@
 <h3 align="center">Junior Backend Developer</h3>
 
 
-
-- 📫 How to reach me **suheybpolater@gmail.com**
 - 🔭 I’m currently working on .NET
 - 🌱 I’m currently learning SignalR
+- 📫 How to reach me **suheybpolater@gmail.com**
+
 
 <h3 align="center">⚡ My Reference Projects ⚡</h3>
 
-| Repo Link | Technologies and Tools | Status | Year | Details |
+| Repo | Technologies and Tools | Status | Year | Details |
 |-----------|------------------------|--------|------|---------|
 | [Human Resources User Management Panel](https://github.com/polaterS/hire-wise) | RESTful Web API, Asp.Net Core, Entity Framework Core, Onion Architecture, MSSQL, DTO, Nlog, Pagination, Identity, JWT, | Finished | 2024 | [Details](https://github.com/polaterS/hire-wise) |
 
