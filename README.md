@@ -14,7 +14,7 @@ C#, .Net, CSS3, Python, HTML5, JavaScript, Anaconda, Bootstrap, MySQL, Microsoft
 
 | Repo Link | Technologies and Tools | Status | Year | Details |
 |-----------|------------------------|--------|------|---------|
-| [Human Resources User Management Panel](https://github.com/polaterS/hire-wise) | RESTful Web API, Asp.Net Core, Entity Framework Core, Onion Architecture, MSSQL, DTO, Nlog, Pagination, Identity, JWT, | Finished | 2024 | [Details]([#](https://github.com/polaterS/hire-wise)) |
+| [Human Resources User Management Panel](https://github.com/polaterS/hire-wise) | RESTful Web API, Asp.Net Core, Entity Framework Core, Onion Architecture, MSSQL, DTO, Nlog, Pagination, Identity, JWT, | Finished | 2024 | [Details](https://github.com/polaterS/hire-wise) |
 
 
 
