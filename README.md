@@ -4,6 +4,8 @@
 
 
 - 📫 How to reach me **suheybpolater@gmail.com**
+- 🔭 I’m currently working on .NET
+- 🌱 I’m currently learning SignalR
 
 ## ⭐ My Reference Projects ⭐
 
