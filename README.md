@@ -1,4 +1,4 @@
-# Hi 👋, Muhammed Süheyb Polater
+# Hi, I'm Muhammed Süheyb Polater
 ### Junior Backend Developer
 
 - 🔭 I’m currently working on .NET
