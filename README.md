@@ -11,7 +11,7 @@
 
 | Repo | Technologies and Tools | Status | Year | Details |
 |-----------|------------------------|--------|------|---------|
-| [Human Resources User Management Panel](https://github.com/polaterS/hire-wise) | RESTful Web API, Asp.Net Core, Entity Framework Core, Onion Architecture, MSSQL, DTO, Nlog, Pagination, Identity, JWT, | Finished | 2024 | [Details](https://github.com/polaterS/hire-wise) |
+| [Human Resources User Management Panel](https://github.com/polaterS/hire-wise) | RESTful Web API, Asp.Net Core, Entity Framework Core, Onion Architecture, MSSQL, DTO, Nlog, Pagination, Identity, JWT, | Finished | 2024 | [Details](https://github.com/polaterS/hire-wise) | [Human Resources User Management Panel](https://github.com/polaterS/hire-wise) | RESTful Web API, Asp.Net 8, Entity Framework Core, MSSQL, DTO, AutoMapper, Fluent Validation, Serilog, xUnit, Identity, JWT, Repository, Unit of Work, Swagger/OpenAPI ile API Docs  | Finished | 2024 | [Details](https://github.com/polaterS/LibraryArchive)
 
 <div> <a href="https://www.linkedin.com/in/polaters" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://github.com/polaters" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
