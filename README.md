@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Muhammed Süheyb Polater</h1>
+**<h1 align="center">Hi 👋, I'm Muhammed Süheyb Polater</h1>
 <h3 align="center">Junior Backend Developer</h3>
 
 
@@ -14,7 +14,43 @@
 | [Human Resources User Management Panel](https://github.com/polaterS/hire-wise) | RESTful Web API, Asp.Net Core, Entity Framework Core, Onion Architecture, MSSQL, DTO, Nlog, Pagination, Identity, JWT, | Finished | 2024 | [Details](https://github.com/polaterS/hire-wise) | [Library Archive and Sales Platform](https://github.com/polaterS/LibraryArchive) | RESTful Web API, Asp.Net 8, Entity Framework Core, MSSQL, DTO, AutoMapper, Fluent Validation, Serilog, xUnit, Identity, JWT, Repository, Unit of Work, Swagger/OpenAPI ile API Docs  | Finished | 2024 | [Details](https://github.com/polaterS/LibraryArchive) |
 
 <div> <a href="https://www.linkedin.com/in/polaters" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="https://github.com/polaters" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+<a href="https://github.com/polaters" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>**<h1 align="center">Hi 👋, I'm Muhammed Süheyb Polater</h1>
+<h3 align="center">Junior Backend Developer</h3>
+
+- 🔭 I’m currently working on .NET
+- 🌱 I’m currently learning SignalR
+- 📫 How to reach me **suheybpolater@gmail.com**
+
+<h3 align="center">⚡ My Reference Projects ⚡</h3>
+
+<table>
+  <tr>
+    <th>Repo</th>
+    <th>Technologies and Tools</th>
+    <th>Status</th>
+    <th>Year</th>
+    <th>Details</th>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/polaterS/hire-wise">Human Resources User Management Panel</a></td>
+    <td>RESTful Web API, Asp.Net Core, Entity Framework Core, Onion Architecture, MSSQL, DTO, Nlog, Pagination, Identity, JWT</td>
+    <td>Finished</td>
+    <td>2024</td>
+    <td><a href="https://github.com/polaterS/hire-wise">Details</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/polaterS/LibraryArchive">Library Archive and Sales Platform</a></td>
+    <td>RESTful Web API, Asp.Net 8, Entity Framework Core, MSSQL, DTO, AutoMapper, Fluent Validation, Serilog, xUnit, Identity, JWT, Repository, Unit of Work, Swagger/OpenAPI ile API Docs</td>
+    <td>Finished</td>
+    <td>2024</td>
+    <td><a href="https://github.com/polaterS/LibraryArchive">Details</a></td>
+  </tr>
+</table>
+
+<div>
+  <a href="https://www.linkedin.com/in/polaters" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://github.com/polaters" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+</div>
 </div><h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/polaters" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="polaters" height="30" width="40" /></a><a href="https://medium.com/@polaters" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/medium.svg" alt="@polaters" height="30" width="40" /></a></p>
