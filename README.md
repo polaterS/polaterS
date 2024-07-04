@@ -17,18 +17,18 @@
     <th>Details</th>
   </tr>
   <tr>
-    <td><a href="https://github.com/polaterS/hire-wise">Human Resources User Management Panel</a></td>
-    <td>RESTful Web API, Asp.Net Core, Entity Framework Core, Onion Architecture, MSSQL, DTO, Nlog, Pagination, Identity, JWT</td>
-    <td>Finished</td>
-    <td>2024</td>
-    <td><a href="https://github.com/polaterS/hire-wise">Details</a></td>
-  </tr>
-  <tr>
     <td><a href="https://github.com/polaterS/LibraryArchive">Library Archive and Sales Platform</a></td>
     <td>RESTful Web API, Asp.Net 8, Entity Framework Core, MSSQL, DTO, AutoMapper, Fluent Validation, Serilog, xUnit, Identity, JWT, Repository, Unit of Work, Swagger/OpenAPI ile API Docs</td>
     <td>Finished</td>
     <td>2024</td>
     <td><a href="https://github.com/polaterS/LibraryArchive">Details</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/polaterS/hire-wise">Human Resources User Management Panel</a></td>
+    <td>RESTful Web API, Asp.Net Core, Entity Framework Core, Onion Architecture, MSSQL, DTO, Nlog, Pagination, Identity, JWT</td>
+    <td>Finished</td>
+    <td>2024</td>
+    <td><a href="https://github.com/polaterS/hire-wise">Details</a></td>
   </tr>
 </table>
 
