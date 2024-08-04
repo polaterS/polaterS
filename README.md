@@ -2,7 +2,7 @@
 <h3 align="center">Backend Developer</h3>
 
 - 🔭 I’m currently working on .NET
-- 🌱 I’m currently learning SignalR
+- 🌱 I’m currently learning SignalR, Redis
 - 📫 How to reach me **suheybpolater@gmail.com**
 
 <h3 align="center">⚡ My Reference Projects ⚡</h3>
